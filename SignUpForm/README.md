@@ -15,3 +15,7 @@
 ### 시연 영상
 ![SignUpForm](https://user-images.githubusercontent.com/26273678/94146510-fff17400-feae-11ea-880a-64c3748c992a.gif)
 
+
+
+#### TODO
+필수 입력칸이 다 채워지지 않았을 경우 예외처리
